@@ -1,0 +1,17 @@
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\servlets\filtrarTurnos.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\persistencia\TurnoJpaController.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\servlets\SvCrearTurno.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\logica\Ciudadano.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\logica\Controladora.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\logica\Turno.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\resources\JavaEE8Resource.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\servlets\SvEdit.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\persistencia\CiudadanoJpaController.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\JAXRSConfiguration.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\servlets\SvSeletFiltrado.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\persistencia\ControladoraPersistencia.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\servlets\borrarTurno.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\servlets\SvCrearCiudadano.java
+C:\Users\rodri\OneDrive\Documents\NetBeansProjects\pruebatec2\src\main\java\com\mycompany\pruebatec2\persistencia\exceptions\PreexistingEntityException.java

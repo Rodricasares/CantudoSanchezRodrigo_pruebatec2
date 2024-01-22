@@ -1,0 +1,17 @@
+com\mycompany\pruebatec2\logica\Controladora.class
+com\mycompany\pruebatec2\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\pruebatec2\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\pruebatec2\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\pruebatec2\servlets\SvCrearTurno.class
+com\mycompany\pruebatec2\logica\Turno.class
+com\mycompany\pruebatec2\servlets\borrarTurno.class
+com\mycompany\pruebatec2\logica\Ciudadano.class
+com\mycompany\pruebatec2\servlets\filtrarTurnos.class
+com\mycompany\pruebatec2\persistencia\ControladoraPersistencia.class
+com\mycompany\pruebatec2\JAXRSConfiguration.class
+com\mycompany\pruebatec2\servlets\SvCrearCiudadano.class
+com\mycompany\pruebatec2\resources\JavaEE8Resource.class
+com\mycompany\pruebatec2\servlets\SvEdit.class
+com\mycompany\pruebatec2\persistencia\TurnoJpaController.class
+com\mycompany\pruebatec2\persistencia\CiudadanoJpaController.class
+com\mycompany\pruebatec2\servlets\SvSeletFiltrado.class
