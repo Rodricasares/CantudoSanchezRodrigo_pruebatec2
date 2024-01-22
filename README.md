@@ -2,14 +2,6 @@
 
 Este proyecto es un gestor de turnos que permite a los usuarios registrar ciudadanos, solicitar turnos para eventos y realizar operaciones relacionadas con la gestión de turnos.
 
-## Contenido
-
-1. [Requisitos](#requisitos)
-2. [Configuración](#configuración)
-3. [Uso](#uso)
-4. [Contribuir](#contribuir)
-5. [Licencia](#licencia)
-
 ## Requisitos
 
 Asegúrate de tener instalado lo siguiente:
